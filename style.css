@@ -1,0 +1,30 @@
+h1 {
+    color: green;
+    font-size: 35px;
+    font-family: ALGERIAN;
+}
+#the_vs_label {
+    font-size: 30px;
+    color: blue;
+    font-family: ALGERIAN;
+}
+
+.copyright_footer {
+    text-align: center;
+    font-size: 20px;
+    width: 100%;
+    background-color: yellowgreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    bottom: 0;
+}
+#image {
+    font-size: 30px;
+}
+h5 {
+    background-color: greenyellow;
+    width: 20%;
+    height: 25px;
+}
+b {
+    background-color: lightskyblue;
+}
